@@ -1,4 +1,4 @@
-# Привет, меня зовут Дина Ганина!
+# Привет, меня зовут Дина!
 
 
 📫  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dinamichman93@gmail.com)
